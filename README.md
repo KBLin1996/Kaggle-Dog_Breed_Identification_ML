@@ -37,3 +37,4 @@
 ![image](https://github.com/KBLin1996/Kaggle_Dog_Breed_Identification_ML/blob/master/Rank.png)
 
 ### ***Conclusion: Looks like it will be better if we decrease the Epochs (Training Accuracy can be improved)***
+### ***Report (implement in Chinese): https://github.com/KBLin1996/Kaggle_Dog_Breed_Identification_ML/blob/master/Dog%20Breed%20Identification%20in%20Chinese%20(Report).pdf***
