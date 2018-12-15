@@ -130,7 +130,7 @@ if __name__ == '__main__':
             y_axis.append(final_acc)
             z_axis.append(final_loss)
 
-        saver.save(sess, 'model/model.ckpt')
+        # saver.save(sess, 'model/model.ckpt')
         ans = test_eval(sess=sess, x_data=Test_x, train_phase=False)
 
         Header = []
