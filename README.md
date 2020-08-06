@@ -1,6 +1,6 @@
 # Kaggle_Dog_Breed_Identification_ML
 
-### **Overall: It is a Kaggle competion which aimed to identify Dog's Breed with Keras and VGG16**
+### **Overall: It is a Kaggle competition which aimed to identify Dog's Breed with Keras and VGG16**
 
 **Question: https://github.com/KBLin1996/Kaggle_Dog_Breed_Identification_ML/blob/master/Question.pdf**
 
